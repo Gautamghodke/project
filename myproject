@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my project</title>
+</head>
+<body>
+    <!--start Header-->
+    <table id="heading" border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f397ib"
+        <tr>
+            <td>
+                  <table border="0" width="85%" cellpadding="6" cellspacing="0">
+                    <tr>
+                        <td>
+                            <font face="lobster" color="#000000" size="5">
+                                Allschoolscolleges
+                            </font>
+                        </td>
+                        <td width="20%"
+                        &nbsp;</td>
+                            <a href=""><font face="caveat" color="#ffffff" 
+                             size="4">Find Colleges</font></a>
+                        </td>
+                        <td>
+                            <a href=""><font face="caveat" color="#ffffff"
+                             size="4">Find schools</font></a>
+                        </td>
+                        <td>
+                            <a href=""><font face="caveat" color="#ffffff"
+                             size="4">Courses</font></a>
+                        </td>
+                        <td>
+                            <a href=""><font face="caveat" color="#ffffff"
+                             size="4">Exams</font></a>
+                        </td>
+                    <td>
+                        <a href=""><font face="caveat" color="#ffffff"
+                         size="4">Scholarship</font></a>
+                    </td><td>
+                    <a href=""><font face="caveat" color="#ffffff"
+                     size="4">Contact</font></a>
+                </td>
+            </tr>
+
+                  </table>
+            </td>
+
+        </tr>
+    <!--end heading-->
+    <!--start heading-->
+    <table id="heading" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929"
+    <tr>
+        <td aling="center" valing="middle">
+              <table border="0" width="85%" cellpadding="6" cellspacing="0">
+                <tr>
+                    <td>
+                        <font face="lobster" color="#000000" size="5">
+                            <img src="all.png" alt="logo" width="30%">
+                        </font>
+                        </td>
+
+                    
+    <!--end heading-->
+</body>
+</html>
+<!--start Find Colleges-->
+<table id="heading" border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="#"
+<tr>
+    <td>
+          <table border="0" width="85%" cellpadding="10" cellspacing="0">
+            <tr>
+                <td>
+                    <font face="lobster" color="#ffffff" size="5">
+                        <h4>Find colleges</h4>  
+                        <small color="#ffe4c4"> 
+                            <br>
+                        <a href="https://bangaloreuniversity.ac.in/"traget="_blank">Bangalore university</a>
+                            <br>
+                            <a href="https://www.reva.edu.in/"target="_blank">Reva university</a>
+                            <br>
+                            <a href="https://www.cmr.edu.in/"traget="_blank">CMR university</a>
+                            <br>
+                            <a href="https://www.cambridge.edu.in/"target="_blank">cambridge</a>
+                            <br>
+                        </small>
+                    </font>
+           
+    </tr>
+
+          </table>
+    </td>
+
+</tr>
+<!--end find colleges-->
